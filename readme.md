@@ -3,6 +3,7 @@
 ## Summary & Contributors
 
 The goal of this project was to use Extract, Transform and Load (ETL) processes to capture, clean and store information on commerical flights out of Raleigh-Durham Airpoit (RDU). Data can be extracted to perform analysis on airline prices, flight frequency, flight distance....etc<br>
+
 <b>Contributors</b>
 <br>
 <li> Tyler Hunt - github.com/tah96 </li>
