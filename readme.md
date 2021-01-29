@@ -11,8 +11,8 @@ The goal of this project was to use Extract, Transform and Load (ETL) processes 
 
 ## Project Report
 
-<b>Extract</b>:
-<br>
+<b>Extract</b>:<br>
+
 The original data sources came from Kaggle; 2018 Airplane Flights and List of US Airports. These sources were downloaded as CSV files named (airports.csv and flights.csv) 
 
 <b>Transform:</b><br>
